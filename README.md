@@ -1,1 +1,1 @@
-# GenericML_project
+# End-to-End Machine Learning Project
